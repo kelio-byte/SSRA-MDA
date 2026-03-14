@@ -3,8 +3,7 @@ PyTorch implementation for "SSRA-MDA: ..."
 
 ## Overview
 
-In this paper, we introduce a deep learning framework SSRA-MDA(Semantic Representation Alignment for Microbe–Disease Association Prediction), which is designed for predicting potential microbe–disease associations (MDAs).  
-The model integrates **structural information from association networks** and **biological semantic knowledge** derived from ontology resources, and aligns the representations from these two views to learn more informative embeddings.
+In this paper, we propose **SSRA-MDA** (Structural–Semantic Representation Alignment), a deep learning framework for microbe–disease association prediction. The framework integrates structural information from association networks with semantic representations derived from biological ontologies using large language models (LLMs), and aligns the two views to learn more informative embeddings.
 
 ## Framework
 
