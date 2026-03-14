@@ -9,7 +9,7 @@ The model integrates **structural information from association networks** and **
 ## Framework
 
 <div align="center">
-  <img src="framework.png" width="60%" alt="Framework">
+  <img src="framework.png" width="80%" alt="Framework">
 </div>
 
 ## Usage
@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 
+```
 SSRA-MDA
 │
 ├── HMDAD/               # HMDAD dataset
@@ -40,3 +41,4 @@ SSRA-MDA
 ├── framework.png        # Framework illustration of SSRA-MDA
 ├── requirements.txt     # Python dependencies
 └── README.md
+```
