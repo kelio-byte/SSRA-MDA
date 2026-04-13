@@ -1,5 +1,5 @@
 # SSRA-MDA
-PyTorch implementation for "SSRA-MDA: Structural–Semantic Representation Alignment for Microbe–Disease Association Prediction"
+PyTorch implementation for "SSRA-MDA: A Multi-View Deep Learning Framework for Microbe-Disease Association Prediction via Structural-Semantic Representation Alignment"
 
 ## Overview
 
